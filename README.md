@@ -24,6 +24,7 @@ System to allow users to choose the seats which are available for a selected mov
 Users subscribe for new release information. System to mail information as per subscription.
 
 **Activity Diagram**
+
 ![Movie-Ticket-Booking-Reservation-System-Activity-Diagram](https://github.com/sourabhgavsane/MovieBookingSystem/assets/48026452/b404dd60-7709-411c-a17d-3ae75b223f4b)
 
 
